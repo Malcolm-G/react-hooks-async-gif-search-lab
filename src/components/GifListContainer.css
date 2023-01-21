@@ -1,0 +1,22 @@
+.list-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-div{
+    /* max-width:30%; */
+    /* display:inline-block; */
+}
+
+.search-div{
+    /* max-width:30%; */
+    /* display:inline-block; */
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width:20%
+}
+
+img{
+    max-height: 200px;
+}
